@@ -58,3 +58,15 @@ a:hover {
   background-color: aqua;
   font-size: 18px;
 }
+
+a {
+    color: blueviolet
+}
+
+.intro {
+  background-color: yellow;
+}
+
+#firstname {
+  background-color: yellow;
+}
