@@ -1,0 +1,55 @@
+
+p {
+
+    color: red
+}
+h1 {
+    color: goldenrod
+}
+h2{
+    color: magenta
+}
+
+.bold {
+    font-weight: bold;
+}
+
+main p {
+font-style: italic;
+
+}
+
+table {
+    border: 1px solid black
+}
+td {
+    border: 1px solid black
+}
+
+@media (min-width: 600px) {
+    h1 {
+            font-size: 20px;
+    }
+    p {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 600px) {
+     h1 {
+            font-size: 16px;
+    }
+    p {
+        font-size: 12px;
+    }
+}
+
+div {
+
+    font-style: oblique;
+}
+
+span {
+
+    font-weight: bold;
+}
