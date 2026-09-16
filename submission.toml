@@ -1,7 +1,7 @@
 [evidence]
-site_url = "https://example.com/"
-archive_url = "https://eleanor-shen.github.io/project0/index.html"
+site_url = "https://eleanor-shen.github.io/project0/index.html"
+archive_url = "https://web.archive.org/web/20260916201017/https://eleanor-shen.github.io/project0/index.html"
 backlink_urls = [
-  "https://first-other-domain.example/page",
-  "https://second-other-domain.example/page",
+  "https://hkitchener29.github.io/p0/",
+  "https://sasha-gonch.github.io/CSCI40/",
 ]
